@@ -1,2 +1,2 @@
 # anonymity-detection
-Make sure to change the csv file path
+Make sure to change the csv file path.
